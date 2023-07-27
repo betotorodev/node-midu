@@ -1,0 +1,27 @@
+{
+  "name": "node-midu",
+  "version": "1.0.0",
+  "description": "A node course by midudev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/betotorodev/node-midu.git"
+  },
+  "keywords": [
+    "node",
+    "midudev",
+    "course"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/betotorodev/node-midu/issues"
+  },
+  "homepage": "https://github.com/betotorodev/node-midu#readme",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  }
+}
