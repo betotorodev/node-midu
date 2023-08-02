@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev:clase-2/1": "node --watch clase-2/1-http.js",
-    "dev:clase-2/2": "node --watch clase-2/2-routing .js"
+    "dev:clase-2/2": "node --watch clase-2/2-routing.js",
+    "dev:clase-2/3": "node --watch clase-2/3-express.js"
   },
   "repository": {
     "type": "git",
