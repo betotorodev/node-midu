@@ -4,8 +4,8 @@
   "description": "A node course by midudev",
   "main": "index.js",
   "scripts": {
-    "dev:clase-2/1" : "node --watch clase-2/1-http.js",
-    "dev:clase-2/2" : "node --watch clase-2/2-routing .js"
+    "dev:clase-2/1": "node --watch clase-2/1-http.js",
+    "dev:clase-2/2": "node --watch clase-2/2-routing .js"
   },
   "repository": {
     "type": "git",
@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/betotorodev/node-midu#readme",
   "dependencies": {
+    "express": "4.18.2",
     "picocolors": "1.0.0"
   },
   "devDependencies": {
