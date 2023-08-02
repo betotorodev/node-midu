@@ -4,7 +4,8 @@
   "description": "A node course by midudev",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev:clase-2/1" : "node --watch clase-2/1-http.js",
+    "dev:clase-2/2" : "node --watch clase-2/2-routing .js"
   },
   "repository": {
     "type": "git",
